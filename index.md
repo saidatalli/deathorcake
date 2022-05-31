@@ -1,5 +1,9 @@
 ## Welcome to Death or Cake
 
 ### Markdown
-[Link](https://github.com/saidatalli/deathorcake/) and ![Image](src)
-Are you ready to play?
+
+How to play:
+
+Click on the button to flip the coin
+Wait to see if you are getting cake 🎂 or dying 💀
+
